@@ -1,4 +1,4 @@
-<body style="background-color: #f2f2f2;">
+<body style="background-color: #fff;">
 
 
 ### Hi there 👋
